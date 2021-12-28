@@ -1,3 +1,4 @@
+import React from 'react';
 import { Col, Container, Image, Row } from "react-bootstrap";
 import Footer from "../Footer/Footer";
 import Header from "../Header/Header";
